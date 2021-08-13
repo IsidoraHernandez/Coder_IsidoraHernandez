@@ -1,0 +1,49 @@
+.Menu{
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    list-style-type: none;
+    color: #7a7b7d;
+    text-align: center;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+h1{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        font-family: 'Jost', sans-serif;
+        font-weight: 600;
+        font-size: 50px; 
+}
+.Formulario{
+    display: flex;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #7a7b7d;
+    list-style-type: none;
+    flex-direction: column;
+    width: 500px;
+    justify-content: right;
+    padding-left: 500px;
+    padding-bottom: 100px;
+}
+.footer_menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 15px;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    list-style-type: none;
+    height: 100px;
+    background-color: rgb(29, 29, 31);
+    align-items: center;
+   }
+   .footer_texto{
+    color: white;
+}
